@@ -32,6 +32,7 @@ Here are the technologies and tools I work with:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ### Backend & Desktop
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dot-net&logoColor=white)
