@@ -53,6 +53,6 @@ I'm always excited to collaborate on interesting projects or contribute to open-
 
 - 📧 Email: [Quocbaotrancao@gmail.com]  
 - 🌐 HackerRank: [https://www.hackerrank.com/profile/Quocbaotrancao]  
-- 💬 LinkedIn: [https://www.linkedin.com/in/qu%E1%BB%91c-b%E1%BA%A3o-tr%E1%BA%A7n-cao-140824324/]  
+- 💬 LinkedIn: www.linkedin.com/in/baotcq]  
 
 Thanks for visiting my profile! 😄
